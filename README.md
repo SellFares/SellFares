@@ -21,8 +21,8 @@
 ---
 
 ## 📂 Featured Projects
-- 🔹 LeetCode Solutions (DSA practice)
-- 🔹 (Add future projects here)
+- 🔹 LeetCode Solutions 
+- 🔹 DailyFeed
 
 ---
 
